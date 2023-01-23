@@ -4,4 +4,4 @@
     <li>split your code into chunks</li>
     <li>setup a dev server</li>
 </ul>
-<img src="webpack.png">
+<img src="./alx-react/webpack.png">
