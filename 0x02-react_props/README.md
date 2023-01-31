@@ -5,4 +5,4 @@
     <li>to create basic React components using functions</li>
     <li>How to define types for components</li>
 </ul>
-<img src="./propsMeme.png">
+<img src="./propsMeme.jpeg">
