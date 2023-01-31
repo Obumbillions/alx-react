@@ -1,2 +1,2 @@
 <h3>0x03-React_component</h3>
-<img src="./componentMeme.png">
+<img src="./componentMeme.jpeg">
